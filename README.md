@@ -19,8 +19,3 @@ A página contém:
 - Tempo de preparo
 - Passo a passo
 - Botão interativo com a dica do chef
-
-## Como executar
-
-1. Baixe ou clone o repositório.
-2. Abra o arquivo `index.html` em qualquer navegador.
