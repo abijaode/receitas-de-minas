@@ -4,7 +4,7 @@ Este projeto é uma página simples em HTML que apresenta uma receita tradiciona
 
 A página mostra a receita com uma imagem, lista de ingredientes, quantidade de porções, tempo de preparo e o passo a passo do preparo.
 
-Também possui um botão chamado **"Ver Segredo do Chef"**. Ao clicar nele, aparece uma dica importante sobre o preparo da massa, alertando para não colocar os ovos quando a massa estiver quente, para que eles não cozinhem antes do tempo e o pão de queijo cresça corretamente.
+Também possui um botão chamado **"Ver Segredo do Chef"**. Ao clicar nele, aparece uma dica importante sobre o preparo da massa.
 
 ## Tecnologias utilizadas
 - HTML5
