@@ -13,6 +13,7 @@ img{
     border-style: solid;
 }
 h1{
+
     background-color: saddlebrown;
     border-radius: 30px;
     border-color: black;
@@ -21,5 +22,15 @@ h1{
 }
 body{
     background-color: chocolate;
+}
 
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
 
+header img {
+    width: 50px;
+}
